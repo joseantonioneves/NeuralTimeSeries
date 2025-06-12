@@ -1,0 +1,17 @@
+C:\Users\José Antonio\source\repos\TimeSeries\NeuralTimeSeries\bin\Debug\NeuralTimeSeries.exe.config
+C:\Users\José Antonio\source\repos\TimeSeries\NeuralTimeSeries\bin\Debug\NeuralTimeSeries.exe
+C:\Users\José Antonio\source\repos\TimeSeries\NeuralTimeSeries\bin\Debug\NeuralTimeSeries.pdb
+C:\Users\José Antonio\source\repos\TimeSeries\NeuralTimeSeries\obj\Debug\NeuralTimeSeries.csproj.AssemblyReference.cache
+C:\Users\José Antonio\source\repos\TimeSeries\NeuralTimeSeries\obj\Debug\NeuralTimeSeries.csproj.CoreCompileInputs.cache
+C:\Users\José Antonio\source\repos\TimeSeries\NeuralTimeSeries\obj\Debug\NeuralTimeSeries.exe
+C:\Users\José Antonio\source\repos\TimeSeries\NeuralTimeSeries\obj\Debug\NeuralTimeSeries.pdb
+C:\Users\José Antonio\source\repos\RNA_TimeSeries\NeuralTimeSeries\bin\Debug\NeuralTimeSeries.exe.config
+C:\Users\José Antonio\source\repos\RNA_TimeSeries\NeuralTimeSeries\bin\Debug\NeuralTimeSeries.exe
+C:\Users\José Antonio\source\repos\RNA_TimeSeries\NeuralTimeSeries\bin\Debug\NeuralTimeSeries.pdb
+C:\Users\José Antonio\source\repos\RNA_TimeSeries\NeuralTimeSeries\obj\Debug\NeuralTimeSeries.csproj.AssemblyReference.cache
+C:\Users\José Antonio\source\repos\RNA_TimeSeries\NeuralTimeSeries\obj\Debug\NeuralTimeSeries.csproj.CoreCompileInputs.cache
+C:\Users\José Antonio\source\repos\RNA_TimeSeries\NeuralTimeSeries\obj\Debug\NeuralTimeSeries.exe
+C:\Users\José Antonio\source\repos\RNA_TimeSeries\NeuralTimeSeries\obj\Debug\NeuralTimeSeries.pdb
+C:\Users\José Antonio\source\repos\RNA_TimeSeries\NeuralTimeSeries\bin\Debug\RedeNeural.dll
+C:\Users\José Antonio\source\repos\RNA_TimeSeries\NeuralTimeSeries\bin\Debug\RedeNeural.pdb
+C:\Users\José Antonio\source\repos\RNA_TimeSeries\NeuralTimeSeries\obj\Debug\NeuralTimeSeries.csproj.CopyComplete
