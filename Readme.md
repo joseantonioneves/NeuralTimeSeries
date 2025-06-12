@@ -1,5 +1,4 @@
-Collecting workspace information# NeuralTimeSeries
-
+# Rede Neural para séries temporais
 ## Finalidade
 
 Este projeto demonstra o uso de Redes Neurais Artificiais (RNA) para previsão de séries temporais, especificamente para prever o volume de agendamentos ao longo do tempo com dados históricos. O código utiliza uma rede neural personalizada para treinar e prever valores futuros com base em dados reais de janeiro de 2019 a dezembro de 2020.
